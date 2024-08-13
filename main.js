@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como você lida com problemas ou bugs no seu código?",
+        enunciado: "Por que a violência obstétrica está cada vez mais banalizada?",
         alternativas: [
             {
-                texto: "Gosto de resolver os problemas sozinho, pesquisando e testando diferentes soluções.",
-                afirmacao: "Independência define sua abordagem para resolver problemas, confiando nas suas <b>habilidades de pesquisa</b>."
+                texto: "negligência médica",
+                afirmacao: "Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda ão utilizadas diariamente por profissionais da saúde.</b>."
             },
             {
-                texto: "Prefiro pedir ajuda a colegas ou em fóruns de programação quando encontro dificuldades.",
-                afirmacao: "Colaboração é essencial para você, apreciando a <b>troca de conhecimento</b> com outros programadores."
+                texto: "desinformação da população",
+                afirmacao: "esmo com fácil acesso a informação, o assunto é pouco comentado e dado  certa  importância, gerando assim graves crimes dentro de hospitais."
             }
         ]
     },
