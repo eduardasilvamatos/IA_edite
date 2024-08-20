@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Por que a violência obstétrica está cada vez mais banalizada??",
         alternativas: [
             {
-                texto: "Gosto de planejar detalhadamente antes de começar a codificar.",
-                afirmacao: "<b>Organização</b> é uma característica forte sua, valorizando o planejamento detalhado."
+                texto: "negligência médica",
+                afirmacao: "<b>Organização</b> Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda ão utilizadas diariamente por profissionais da saúde."
             },
             {
-                texto: "Prefiro começar a codificar logo e ajustar o plano conforme avanço.",
-                afirmacao: "Você se destaca pela <b>dinamismo</b>, gostando de aprender e ajustar durante o processo."
+                texto: "desinformação da população",
+                afirmacao: "Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado  certa  importância."
             }
         ]
     },
