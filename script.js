@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é a sua postura em relação ao aprendizado de novas tecnologias?",
+        enunciado: "Qual é a sua postura em relação a violencia obstétrica?",
         alternativas: [
             {
-                texto: "Prefiro me aprofundar nas tecnologias que já conheço bem antes de explorar novas.",
-                afirmacao: "<b>Foco</b> é seu ponto forte, preferindo dominar suas ferramentas atuais."
+                texto: "Prefiro permanecer neutro sobre a questão",
+                afirmacao: "<b>Foco</b> assunto muito forte para ser opinado"
             },
             {
-                texto: "Gosto de experimentar e aprender novas tecnologias constantemente.",
-                afirmacao: "<b>Curiosidade</b> é uma marca sua, sempre em busca de novas ferramentas e técnicas."
+                texto: "Gosto de lutar por justas causas, a fim de melhorar a sociedade",
+                afirmacao: "<b>Curiosidade</b> espalhar a informação pode ajudar a previnir esses casos"
             }
         ]
     },
