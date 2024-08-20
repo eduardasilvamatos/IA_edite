@@ -58,11 +58,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como você prefere trabalhar em um projeto?",
+        enunciado: "Como você prefere trabalhar para solucionar esse problema?",
         alternativas: [
             {
-                texto: "Prefiro trabalhar sozinho, tendo total controle sobre o projeto.",
-                afirmacao: "<b>Independência</b> é uma preferência sua, gostando de ter controle total sobre seus projetos."
+                texto: "Prefiro trabalhar sozinho e depois compartilhar minhas ideias.",
+                afirmacao: "<b>Independência</b> colaborar em equipe para juntar ideias."
             },
             {
                 texto: "Gosto de trabalhar em equipe, colaborando e compartilhando responsabilidades.",
