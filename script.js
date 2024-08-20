@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "a falta e verba governamental influencia na violência obstétrica?",
+        enunciado: " o governo deveria invetir em palestras e campanhas.",
         alternativas: [
             {
                 texto: "Sim, acho que o governo deveria invetir em palestras e campanhas.",
