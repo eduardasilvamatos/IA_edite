@@ -19,11 +19,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como você lida com problemas ou bugs no seu código?",
+        enunciado: "a falta e verba governamental influencia na violência obstétrica?",
         alternativas: [
             {
-                texto: "Gosto de resolver os problemas sozinho, pesquisando e testando diferentes soluções.",
-                afirmacao: "Independência define sua abordagem para resolver problemas, confiando nas suas <b>habilidades de pesquisa</b>."
+                texto: "Sim, acho que o governo deveria invetir em palestras e campanhas.",
+                afirmacao: "Não é preocupação de grande porte.</b>."
             },
             {
                 texto: "Prefiro pedir ajuda a colegas ou em fóruns de programação quando encontro dificuldades.",
