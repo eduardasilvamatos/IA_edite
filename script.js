@@ -65,7 +65,7 @@ const perguntas = [
                 afirmacao: "<b>Independência</b> colaborar em equipe para juntar ideias."
             },
             {
-                texto: "Gosto de colaborar em equipe e juntar ideias.,
+                texto: "Gosto de colaborar em equipe e juntar ideias.",
                 afirmacao: "<b>Trabalho em equipe</b> é algo que você valoriza, apreciando a colaboração e a partilha de responsabilidades."
             }
         ]
