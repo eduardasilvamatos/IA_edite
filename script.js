@@ -26,21 +26,21 @@ const perguntas = [
                 afirmacao: "Não é preocupação de grande porte.</b>."
             },
             {
-                texto: "Prefiro pedir ajuda a colegas ou em fóruns de programação quando encontro dificuldades.",
-                afirmacao: "Colaboração é essencial para você, apreciando a <b>troca de conhecimento</b> com outros programadores."
+                texto: "Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda ão utilizadas diariamente por profissionais da saúde.",
+                afirmacao: "Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado  certa  importância."
             }
         ]
     },
     {
-        enunciado: "Qual é a sua preferência em relação à estética versus funcionalidade em um projeto?",
+        enunciado: "Por que a violência obstétrica está cada vez mais banalizada?",
         alternativas: [
             {
-                texto: "Acredito que a funcionalidade é mais importante que a estética.",
-                afirmacao: "<b>Pragmatismo</b> é uma característica sua, priorizando a funcionalidade e a eficiência do código."
+                texto: "falta e verba governamental influencia na violência obstétrica?",
+                afirmacao: "<b>Pragmatismo</b> A falta de recursos normaliza que crimes sejam cometidos."
             },
             {
-                texto: "Valorizo muito a estética e gosto de criar interfaces visualmente atraentes.",
-                afirmacao: "<b>Detalhista</b>, você dá muita importância à aparência e à experiência do usuário."
+                texto: "Falta de profissionais qualificados.",
+                afirmacao: "<b>Detalhista</b>, a falta de profissionalismo em hospitais, sem supervisões adequadas é um agente que influencia eses crimes."
             }
         ]
     },
