@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando você começa um novo projeto de programação, qual é a sua abordagem inicial?",
+        enunciado: "Por que a violência obstétrica está cada vez mais banalizada??",
         alternativas: [
             {
                 texto: "Gosto de planejar detalhadamente antes de começar a codificar.",
